@@ -1,3 +1,4 @@
+// managing the exception locally
 
 import java.util.Scanner;
 
